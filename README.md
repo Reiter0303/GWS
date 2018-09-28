@@ -1,6 +1,6 @@
 # GWS
 
-Bildschirmfoto 2018-09-29 um 00.19.51
+
 
 Gas-Wasser-Strom (MAC)
 
