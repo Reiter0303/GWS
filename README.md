@@ -1,6 +1,8 @@
 # GWS
 Gas-Wasser-Strom (MAC)
+
 Wer monatlich Werte eingeben möchte und eine Art Liste über den Verbrauch führen will, für den ist das eine gute Hilfe.
+
 
 GWS.zip laden und entpacken
 
