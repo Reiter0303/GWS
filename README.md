@@ -15,6 +15,7 @@ Telnet Fenster aufmachen
 in das Verzeichnis navigieren wo Ihr das Programm entpackt habt
 
 xattr -c GWS
+
 xattr -c GWS.app
 
 eingeben und fertig!
