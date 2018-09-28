@@ -1,4 +1,7 @@
 # GWS
+
+Bildschirmfoto 2018-09-29 um 00.19.51
+
 Gas-Wasser-Strom (MAC)
 
 Wer monatlich Werte eingeben möchte und eine Art Liste über den Verbrauch führen will, für den ist das eine gute Hilfe.
